@@ -1,0 +1,13 @@
+[linux:children]
+awx
+web
+db
+
+[awx]
+c1
+
+[web]
+c2
+
+[db]
+c3
